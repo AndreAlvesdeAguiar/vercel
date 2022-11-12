@@ -8,5 +8,3 @@ Handler = Proc.new do |req, res|
 		res.body = "Hello, stranger!"
 	end
 end
-
-
